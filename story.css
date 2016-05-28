@@ -1,0 +1,15 @@
+img{
+    width: 700px;
+}
+div{
+    margin-left: 270px; margin-right: 270px;
+}
+p{
+    text-align: justify;
+}
+h1{
+    margin-left: 130px; padding-bottom: 30px; color: red; font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: yellow;
+}
